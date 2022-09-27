@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pawiwahan
+- 👋 Hi, I’m @djna911
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
